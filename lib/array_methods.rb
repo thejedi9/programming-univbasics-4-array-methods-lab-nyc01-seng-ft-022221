@@ -5,8 +5,8 @@ end
 
 def using_sort(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array.sort.last(wow)
-  array.sort.first(I)
+  array.sort.last
+  array.sort.first
 end
 
 def using_reverse(array)
